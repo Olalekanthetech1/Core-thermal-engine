@@ -1,0 +1,6 @@
+{
+  "name": "Core Thermal Engine",
+  "description": "Calculates core engineering formulas for welding aluminum, including heat input and cooling rate index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
